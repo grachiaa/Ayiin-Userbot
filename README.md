@@ -1,4 +1,4 @@
- <h1 align="center"><img src="./userbot/resources/Kenpurple.gif" width="35px"> 𝘼𝙮𝙞𝙞𝙣 𝙐𝙨𝙚𝙧𝙗𝙤𝙩 <img src="./userbot/resources/Kenpurple.gif" width="35px"></h1>
+ <h1 align="center"><img src="./userbot/resources/Kenpurple.gif" width="35px"> GRACHIAA USERBOT <img src="./userbot/resources/Kenpurple.gif" width="35px"></h1>
 
 <a href="https://github.com/AyiinXd/Ayiin-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/AyiinXd/Ayiin-Userbot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/AyiinXd/Ayiin-Userbot)
@@ -35,7 +35,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 <p align="center">
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AyiinXd/Ayiin-Userbot-Deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="250" height="40.00" /></a></p>  
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/grachiaa/Ayiin-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="250" height="40.00" /></a></p>  
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=QXlpaW5YZC9ZaW5zLVVzZXJib3QgWWlucy1Vc2VyYm90"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 

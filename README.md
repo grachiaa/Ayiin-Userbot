@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/21bca0a64032cd5b23b3c.jpg">
+  <img src="https://telegra.ph/file/f2f104752b5cd1d630148.jpg">
 </p>
 
 <img src="./userbot/resources/Kenpurple.gif" width="20px"> `Userbot yang mempunyai berbagai module dan banyak perintah yang keren, gas deploy bang😁 kalo udah make jadi keren`
